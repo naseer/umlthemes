@@ -368,7 +368,7 @@ skinparam rectangle {
 
 skinparam package {
 	$primary_scheme()
-	FontColor $PRIMARY_TEXT
+	FontColor $PRIMARY_DARK
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderThickness 2
 }
